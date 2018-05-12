@@ -1,0 +1,29 @@
+_repo: Life-of-Thomas---Becket_41811
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41811-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Milman, Henry Hart
+    alias: Milman, H. H. (Henry Hart)
+    birthdate: 1791
+    deathdate: 1868
+    gutenberg_agent_id: '8722'
+    url: http://www.gutenberg.org/2009/agents/8722
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Hart_Milman
+description: ''
+gutenberg_issued: '2013-01-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41811'
+  lccn: 04035485
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Thomas, à Becket, Saint, 1118?-1170'
+title: Life of Thomas à Becket
+url: http://www.gutenberg.org/ebooks/41811
